@@ -1,3 +1,5 @@
+# Phần code sử dụng của Thầy Trần Nhật Quang, trường Đại Học Sư Phạm Kỹ Thuật TPHCM
+
 # The following code implements A* search to solve the path finding problem in a 10x10 maze.
 # However, it has some BUGS leading to infinite loops and nonoptimal solutions! 
 ''' 
